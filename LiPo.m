@@ -1,3 +1,5 @@
+% Battery model
+
 function [voltage, cell_voltage]= LiPo(load)
 
 %================================Constants=================================
